@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentencrypt",
+        "uuid": 3822635,
+        "checksum": "je4uyu"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
